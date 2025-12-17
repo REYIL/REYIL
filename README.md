@@ -9,13 +9,13 @@
 
 ## 🛠️ Технологии
 
-**Языки:** Python, JavaScript, C++, C#
-**Backend-фреймворки:** Django, Flask, aiogram
-**Frontend:** HTML, CSS
-**Фреймворки:** React, React Native
-**Библиотеки и инструменты:** telethon, ChromaDB, requests, Selenium, pipreqs, tox, Poetry, ...
-**API и ИИ:** OpenAI, DeepSeek, другие AI API
-**Машинное обучение:** немного TensorFlow
+ - **Языки:** Python, JavaScript, C++, C#
+ - **Backend-фреймворки:** Django, Flask, aiogram
+ - **Frontend:** HTML, CSS
+ - **Фреймворки:** React, React Native
+ - **Библиотеки и инструменты:** telethon, ChromaDB, requests, Selenium, pipreqs, tox, Poetry, ...
+ - **API и ИИ:** OpenAI, DeepSeek, другие AI API
+ - **Машинное обучение:** немного TensorFlow
 
 
 ## 🚀 Ключевые проекты
