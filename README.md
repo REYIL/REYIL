@@ -9,24 +9,31 @@
 
 ## 🛠️ Технологии
 
- - **Языки:** Python, JavaScript, C++, C#
+ - **Основные языки:** Python, JavaScript  
+ - **Дополнительные языки:** C++, C#
  - **Backend-фреймворки:** Django, Flask, aiogram
  - **Frontend:** HTML, CSS
- - **Фреймворки:** React, React Native
- - **Библиотеки и инструменты:** telethon, ChromaDB, requests, Selenium, pipreqs, tox, Poetry, ...
+ - **Frontend-фреймворки (базово):** React, React Native
+ - **Библиотеки и инструменты:** telethon, ChromaDB, requests, Selenium, imaplib, pipreqs, tox, Poetry, ...
  - **API и ИИ:** OpenAI, DeepSeek, другие AI API
- - **Машинное обучение:** немного TensorFlow
+ - **Машинное обучение (базово):** TensorFlow, Keras
 
 
 ## 🚀 Ключевые проекты
 
 ### 🎙️ VoiceTrigger
-Python-библиотека для realtime распознавания речи (установка через pip)
+
+![PyPI](https://img.shields.io/pypi/v/voicetrigger)
+![Python](https://img.shields.io/pypi/pyversions/voicetrigger)
+![License](https://img.shields.io/github/license/REYIL/VoiceTrigger)
+
+Python-библиотека для realtime распознавания речи
 
 - Работа с микрофоном в реальном времени
 - Детекция уровня голоса (whisper / normal / shout)
 - Декораторный API для обработки текста и триггеров
 - Подходит для голосового управления и автоматизаций
+- Установка через pip
 
 ### 🤖 ServerManagementTelegramBot
 Telegram-бот для управления Linux-сервером
