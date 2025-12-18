@@ -21,7 +21,7 @@
 
 ## 🚀 Ключевые проекты
 
-### 🎙️ VoiceTrigger
+### 🎙️ [VoiceTrigger](https://github.com/REYIL/VoiceTrigger)
 
 ![PyPI](https://img.shields.io/pypi/v/voicetrigger)
 ![Python](https://img.shields.io/pypi/pyversions/voicetrigger)
@@ -35,7 +35,7 @@ Python-библиотека для realtime распознавания речи
 - Подходит для голосового управления и автоматизаций
 - Установка через pip
 
-### 🤖 ServerManagementTelegramBot
+### 🤖 [ServerManagementTelegramBot](https://github.com/REYIL/ServerManagementTelegramBot)
 Telegram-бот для управления Linux-сервером
 
 - Выполнение команд через Telegram
