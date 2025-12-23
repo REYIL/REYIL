@@ -38,8 +38,10 @@ Python-библиотека для realtime распознавания речи
 ### 🧩 [MultiEnvEmployer](https://github.com/REYIL/MultiEnvEmployer)
 
 ![PyPI](https://img.shields.io/pypi/v/multi-env-employer)
-![Python](https://img.shields.io/pypi/pyversions/multi-env-employer)
-![License](https://img.shields.io/github/license/REYIL/MultiEnvEmployer)
+![License](https://img.shields.io/badge/license-MIT-orange.svg)&nbsp;
+![OS](https://img.shields.io/badge/os-cross--platform-orange)&nbsp;
+![Library Python](https://img.shields.io/badge/python_library-3.8%2B-blue.svg)&nbsp;
+![Module Python](https://img.shields.io/badge/python_modules-3.5%2B-green.svg)&nbsp;
 
 Python-библиотека для выполнения кода из **других virtualenv** и **других версий Python** как обычных функций.
 
