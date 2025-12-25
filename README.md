@@ -11,10 +11,21 @@
 
  - **Основные языки:** Python, JavaScript
  - **Дополнительные языки:** C++, C#
- - **Backend-фреймворки:** Django, Flask, aiogram
+ - **Backend:** Django, FastAPI, Flask, aiogram
  - **Frontend:** HTML, CSS
  - **Frontend-фреймворки (базово):** React, React Native
- - **Библиотеки и инструменты:** telethon, ChromaDB, requests, Selenium, imaplib, pipreqs, tox, Poetry, ...
+
+ - **Базы данных:** SQLite, ChromaDB
+
+ - **Библиотеки и инструменты:** 
+   telethon, aiogram, telebot, requests, Selenium, BeautifulSoup, imaplib, pipreqs, tox, Poetry
+
+ - **Парсинг / scraping:** 
+   requests / Selenium + BeautifulSoup
+
+ - **Telegram:** 
+   боты (aiogram), userbot (telethon)
+
  - **API и ИИ:** OpenAI, DeepSeek, другие AI API
  - **Машинное обучение (базово):** TensorFlow, Keras
 
