@@ -1,33 +1,28 @@
 # Привет, я Азамат 👋
 
-Я Python-разработчик и студент, создаю практичные решения: веб-приложения, Telegram-ботов и автоматизации под реальные задачи.
-
-## 🧠 Чем занимаюсь
-- 🌐 Разработка веб-приложений
-- 🤖 Создание Telegram-ботов и автоматизаций
-- ⚙️ Автоматизация рутинных процессов
+Python-разработчик, создаю веб-приложения, Telegram-ботов и инструменты автоматизации.
 
 ## 🛠️ Технологии
 
- - **Основные языки:** Python, JavaScript
- - **Дополнительные языки:** C++, C#
- - **Backend:** Django, FastAPI, Flask, aiogram
- - **Frontend:** HTML, CSS
- - **Frontend-фреймворки (базово):** React, React Native
+### Языки программирования
+ - Python
+ - JavaScript / TypeScript
+ - C++
+ - C#
 
- - **Базы данных:** SQLite, ChromaDB
+### Frontend
+ - HTML / CSS
+ - Next.js
 
- - **Библиотеки и инструменты:** 
-   telethon, aiogram, telebot, requests, Selenium, BeautifulSoup, imaplib, pipreqs, tox, Poetry
+### Backend / API
+ - Django / FastAPI / Flask
+ - Telegram Bots (aiogram / telethon)
+ - API & AI
 
- - **Парсинг / scraping:** 
-   requests / Selenium + BeautifulSoup
-
- - **Telegram:** 
-   боты (aiogram), userbot (telethon)
-
- - **API и ИИ:** OpenAI, DeepSeek, другие AI API
- - **Машинное обучение (базово):** TensorFlow, Keras
+### Базы данных и инструменты
+ - SQLite / ChromaDB
+ - requests / Selenium / BeautifulSoup
+ - Poetry / pipreqs / tox
 
 
 ## 🚀 Ключевые проекты
@@ -38,13 +33,11 @@
 ![Python](https://img.shields.io/pypi/pyversions/voicetrigger)
 ![License](https://img.shields.io/github/license/REYIL/VoiceTrigger)
 
-Python-библиотека для realtime распознавания речи
-
-- Работа с микрофоном в реальном времени
-- Детекция уровня голоса (whisper / normal / shout)
-- Декораторный API для обработки текста и триггеров
-- Подходит для голосового управления и автоматизаций
-- Установка через pip
+Библиотека для распознавания речи в реальном времени с поддержкой интонаций и ключевых слов.
+ - Декораторный API для обработки событий и управления состояниями в асинхронном режиме
+ - Реализация голосового управления и быстрых команд
+ - Работает напрямую с микрофоном
+ - Установка через pip
 
 ### 🧩 [MultiEnvEmployer](https://github.com/REYIL/MultiEnvEmployer)
 
@@ -54,27 +47,21 @@ Python-библиотека для realtime распознавания речи
 ![Library Python](https://img.shields.io/badge/python_library-3.8%2B-blue.svg)&nbsp;
 ![Module Python](https://img.shields.io/badge/python_modules-3.5%2B-green.svg)&nbsp;
 
-Python-библиотека для выполнения кода из **других virtualenv** и **других версий Python** как обычных функций.
-
-- Вызов функций и генераторов из изолированных окружений
-- Поддержка конфликтующих зависимостей и разных версий Python
-- Потоковая передача больших данных
-- Перехват `print()`, таймауты, управление процессами
-- Установка через pip
+Библиотека для безопасного выполнения кода из разных виртуальных окружений Python как обычных функций.
+ - Поддержка асинхронных функций и передачи аргументов
+ - Перехват print(), таймауты и обработка ошибок
+ - Позволяет запускать модули с разными зависимостями независимо друг от друга
+ - Установка через pip
 
 ### 🤖 [ServerManagementTelegramBot](https://github.com/REYIL/ServerManagementTelegramBot)
-Telegram-бот для управления Linux-сервером
 
-- Выполнение команд через Telegram
-- Мониторинг состояния системы
-- Работа с файлами
-- Реализован на aiogram 3.x
+Telegram-бот для управления Linux-сервером через aiogram 3.x. 
+ - Выполнение команд и мониторинг системы
+ - Работа с файлами и добавление кастомных команд
 
 ## 🎓 Обо мне
-- Студент-программист
 - Работаю на фрилансе
 - Постоянно изучаю новые технологии и инструменты
-- Люблю автоматизировать всё, что можно 🙂
 
 ## 📫 Контакты
 - Telegram: [@REYIL](https://t.me/REYIL)
