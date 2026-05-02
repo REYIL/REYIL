@@ -47,10 +47,10 @@ Python-разработчик, создаю веб-приложения, Telegra
 ![Library Python](https://img.shields.io/badge/python_library-3.8%2B-blue.svg)&nbsp;
 ![Module Python](https://img.shields.io/badge/python_modules-3.5%2B-green.svg)&nbsp;
 
-Библиотека для безопасного выполнения кода из разных виртуальных окружений Python как обычных функций.
- - Поддержка асинхронных функций и передачи аргументов
- - Перехват print(), таймауты и обработка ошибок
- - Позволяет запускать модули с разными зависимостями независимо друг от друга
+Библиотека для выполнения кода из разных виртуальных окружений Python как обычных функций.
+ - Поддержка разных версий Python и конфликтующих зависимостей в одном проекте
+ - Async/await, генераторы, перехват print() и потоковая передача больших данных
+ - Stateful/stateless режимы, кэширование результатов и гибкие таймауты
  - Установка через pip
 
 ### 🤖 [ServerManagementTelegramBot](https://github.com/REYIL/ServerManagementTelegramBot)
