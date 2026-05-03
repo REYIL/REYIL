@@ -64,7 +64,7 @@ Telegram-бот для управления Linux-сервером через ai
 - Постоянно изучаю новые технологии и инструменты
 
 ## 📫 Контакты
-- Telegram: [@REYIL](https://t.me/REYIL)
+- Telegram: [@REYIL_DEV](https://t.me/REYIL_DEV)
 
 ---
 Спасибо, что заглянули в мой профиль!
