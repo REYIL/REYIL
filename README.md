@@ -1,32 +1,5 @@
 # Привет, я Азамат 👋
 
-Python-разработчик, создаю веб-приложения, Telegram-ботов и инструменты автоматизации.
-
-## 🛠️ Технологии
-
-### Языки программирования
- - Python
- - JavaScript / TypeScript
- - C++
- - C#
-
-### Frontend
- - HTML / CSS
- - Next.js
-
-### Backend / API
- - Django / FastAPI / Flask
- - Telegram Bots (aiogram / telethon)
- - API & AI
-
-### Базы данных и инструменты
- - SQLite / ChromaDB
- - requests / Selenium / BeautifulSoup
- - Poetry / pipreqs / tox
-
-
-# Привет, я Азамат 👋
-
 Python/JS разработчик. Создаю веб-приложения, ботов и инструменты автоматизации.
 
 ## 🛠️ Навыки и технологии
