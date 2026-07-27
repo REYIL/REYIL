@@ -2,7 +2,7 @@
 
 ## [ SECTION_01 // ABOUT ]
 
-> Software Engineer. Web service development, Telegram infrastructure design, and end-to-end process automation.
+Software Engineer. Web service development, Telegram infrastructure design, and end-to-end process automation.
 
 ---
 
@@ -49,19 +49,19 @@
 
 <img src="https://img.shields.io/badge/Python-121316?style=flat-square&logo=python&logoColor=e2ff00&labelColor=121316" alt="Python" /> <img src="https://img.shields.io/badge/Async-121316?style=flat-square" alt="Async" /> <img src="https://img.shields.io/badge/VirtualEnv-121316?style=flat-square" alt="VirtualEnv" /> <img src="https://img.shields.io/badge/PyPI-121316?style=flat-square&logo=pypi&logoColor=e2ff00&labelColor=121316" alt="PyPI" />
 
-> Запуск кода из разных виртуальных окружений как обычных функций. Асинхронность и перехват вывода.
+Запуск кода из разных виртуальных окружений как обычных функций. Асинхронность и перехват вывода.
 
 ### [VoiceTrigger](https://github.com/REYIL/VoiceTrigger)
 
 <img src="https://img.shields.io/badge/Python-121316?style=flat-square&logo=python&logoColor=e2ff00&labelColor=121316" alt="Python" /> <img src="https://img.shields.io/badge/Vosk-121316?style=flat-square" alt="Vosk" /> <img src="https://img.shields.io/badge/PyPI-121316?style=flat-square&logo=pypi&logoColor=e2ff00&labelColor=121316" alt="PyPI" />
 
-> Библиотека распознавания речи в реальном времени на основе Vosk. Декораторный API как в aiogram.
+Библиотека распознавания речи в реальном времени на основе Vosk. Декораторный API как в aiogram.
 
 ### [ServerManagementTelegramBot](https://github.com/REYIL/ServerManagementTelegramBot)
 
 <img src="https://img.shields.io/badge/Python-121316?style=flat-square&logo=python&logoColor=e2ff00&labelColor=121316" alt="Python" /> <img src="https://img.shields.io/badge/Telegram-121316?style=flat-square&logo=telegram&logoColor=e2ff00&labelColor=121316" alt="Telegram" /> <img src="https://img.shields.io/badge/Linux-121316?style=flat-square&logo=linux&logoColor=e2ff00&labelColor=121316" alt="Linux" />
 
-> Telegram-бот для управления Linux-сервером (команды, мониторинг, файлы).
+Telegram-бот для управления Linux-сервером (команды, мониторинг, файлы).
 
 ---
 
