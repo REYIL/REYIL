@@ -49,7 +49,7 @@ Software Engineer. Web service development, Telegram infrastructure design, and 
 
 <img src="https://img.shields.io/badge/Python-121316?style=flat-square&logo=python&logoColor=e2ff00&labelColor=121316" alt="Python" /> <img src="https://img.shields.io/badge/Async-121316?style=flat-square" alt="Async" /> <img src="https://img.shields.io/badge/VirtualEnv-121316?style=flat-square" alt="VirtualEnv" /> <img src="https://img.shields.io/badge/PyPI-121316?style=flat-square&logo=pypi&logoColor=e2ff00&labelColor=121316" alt="PyPI" />
 
-Запуск кода из разных виртуальных окружений как обычных функций. Асинхронность и перехват вывода.
+Запуск Python-кода из разных виртуальных окружений как обычных функций, с изоляцией зависимостей и перехватом вывода.
 
 ### [VoiceTrigger](https://github.com/REYIL/VoiceTrigger)
 
