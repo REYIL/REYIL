@@ -1,76 +1,71 @@
-# Привет, я Азамат 👋
+# REYIL 
 
-Python/JS разработчик. Создаю веб-приложения, ботов и инструменты автоматизации.
+## [ SECTION_01 // ABOUT ]
 
-## 🛠️ Навыки и технологии
-
-### Языки программирования
-![Python](https://img.shields.io/badge/Python-80%25-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-60%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-35%25-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-40%25-239120?style=flat&logo=csharp&logoColor=white)
-
-### Frontend
-![HTML/CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-85%25-E34F26?style=flat&logo=html5&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-55%25-000000?style=flat&logo=nextdotjs&logoColor=white)
-
-### Backend / API / AI
-![Django](https://img.shields.io/badge/Django%20%2F%20FastAPI%20%2F%20Flask-70%25-092E20?style=flat&logo=django&logoColor=white)
-![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-85%25-26A5E4?style=flat&logo=telegram&logoColor=white)
-![API & AI](https://img.shields.io/badge/API%20%26%20AI-75%25-FF6F00?style=flat&logo=openai&logoColor=white)
-![AI Training](https://img.shields.io/badge/AI%20Training%20%2F%20Fine--tuning-7%25-FF6F61?style=flat&logo=tensorflow&logoColor=white)
-
-### Базы данных и инструменты
-![SQLite](https://img.shields.io/badge/SQLite%20%2F%20ChromaDB-75%25-003B57?style=flat&logo=sqlite&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Selenium%20%2F%20BeautifulSoup-65%25-43B02A?style=flat&logo=selenium&logoColor=white)
-![Tools](https://img.shields.io/badge/Poetry%20%2F%20pipreqs%20%2F%20tox-35%25-60A5FA?style=flat&logo=python&logoColor=white)
-
-### Hardware / IoT
-![Arduino](https://img.shields.io/badge/Arduino-45%25-00979D?style=flat&logo=arduino&logoColor=white)
-
-## 🚀 Ключевые проекты
-
-### 🎙️ [VoiceTrigger](https://github.com/REYIL/VoiceTrigger)
-
-![PyPI](https://img.shields.io/pypi/v/voicetrigger)
-![Python](https://img.shields.io/pypi/pyversions/voicetrigger)
-![License](https://img.shields.io/github/license/REYIL/VoiceTrigger)
-
-Библиотека для распознавания речи в реальном времени с поддержкой интонаций и ключевых слов.
- - Декораторный API для обработки событий и управления состояниями в асинхронном режиме
- - Реализация голосового управления и быстрых команд
- - Работает напрямую с микрофоном
- - Установка через pip
-
-### 🧩 [MultiEnvEmployer](https://github.com/REYIL/MultiEnvEmployer)
-
-![PyPI](https://img.shields.io/pypi/v/multi-env-employer)
-![License](https://img.shields.io/badge/license-MIT-orange.svg)&nbsp;
-![OS](https://img.shields.io/badge/os-cross--platform-orange)&nbsp;
-![Library Python](https://img.shields.io/badge/python_library-3.8%2B-blue.svg)&nbsp;
-![Module Python](https://img.shields.io/badge/python_modules-3.5%2B-green.svg)&nbsp;
-
-Выполнение кода из разных виртуальных окружений Python как обычных функций.
- - Изоляция зависимостей и поддержка разных версий Python в одном проекте
- - Async/await, генераторы, перехват print() и потоковая передача данных
- - Stateful/stateless режимы, кэширование результатов и контроль таймаутов
- - Установка через pip
-
-### 🤖 [ServerManagementTelegramBot](https://github.com/REYIL/ServerManagementTelegramBot)
-
-Telegram-бот для управления Linux-сервером через aiogram 3.x. 
- - Выполнение команд и мониторинг системы
- - Работа с файлами и добавление кастомных команд
-
-## 🎓 Обо мне
-- 💼 Работаю на фрилансе
-- 📦 Публикую библиотеки на PyPI
-- 🔧 Люблю автоматизировать рутинные задачи
-- 🌱 Экспериментирую с AI и IoT
-
-## 📫 Контакты
-- Telegram: [@REYIL_DEV](https://t.me/REYIL_DEV)
-- PyPI: [REYIL](https://pypi.org/user/REYIL)
+> Software Engineer. Web service development, Telegram infrastructure design, and end-to-end process automation.
 
 ---
-Спасибо, что заглянули в мой профиль!
+
+## [ SECTION_02 // TECH_STK ]
+
+#### [ TECH_STK // Languages ]
+
+<p>
+  <img src="https://img.shields.io/badge/Python-80%25-e2ff00?style=flat-square&logo=python&logoColor=e2ff00&labelColor=121316" alt="Python — 80%" />
+  <img src="https://img.shields.io/badge/JavaScript_%2F_TypeScript-60%25-e2ff00?style=flat-square&logo=javascript&logoColor=e2ff00&labelColor=121316" alt="JavaScript / TypeScript — 60%" />
+  <img src="https://img.shields.io/badge/C%2B%2B-25%25-e2ff00?style=flat-square&logo=cplusplus&logoColor=e2ff00&labelColor=121316" alt="C++ — 25%" />
+  <img src="https://img.shields.io/badge/C%23-30%25-e2ff00?style=flat-square&logo=sharp&logoColor=e2ff00&labelColor=121316" alt="C# — 30%" />
+</p>
+
+#### [ TECH_STK // Frontend ]
+
+<p>
+  <img src="https://img.shields.io/badge/HTML_%2F_CSS-85%25-e2ff00?style=flat-square&logo=html5&logoColor=e2ff00&labelColor=121316" alt="HTML / CSS — 85%" />
+  <img src="https://img.shields.io/badge/Next.js-75%25-e2ff00?style=flat-square&logo=nextdotjs&logoColor=e2ff00&labelColor=121316" alt="Next.js — 75%" />
+</p>
+
+#### [ TECH_STK // Backend / API ]
+
+<p>
+  <img src="https://img.shields.io/badge/Django_%2F_FastAPI_%2F_Flask-65%25-e2ff00?style=flat-square&logo=fastapi&logoColor=e2ff00&labelColor=121316" alt="Django / FastAPI / Flask — 65%" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-85%25-e2ff00?style=flat-square&logo=telegram&logoColor=e2ff00&labelColor=121316" alt="Telegram Bots — 85%" />
+  <img src="https://img.shields.io/badge/Selenium_%2F_API-75%25-e2ff00?style=flat-square&logo=selenium&logoColor=e2ff00&labelColor=121316" alt="Selenium / API — 75%" />
+  <img src="https://img.shields.io/badge/SQLite_%2F_ChromaDB-80%25-e2ff00?style=flat-square&logo=sqlite&logoColor=e2ff00&labelColor=121316" alt="SQLite / ChromaDB — 80%" />
+</p>
+
+#### [ TECH_STK // Additional Skills ]
+
+<p>
+  <img src="https://img.shields.io/badge/Poetry_%2F_pipreqs_%2F_tox-35%25-e2ff00?style=flat-square&logo=python&logoColor=e2ff00&labelColor=121316" alt="Poetry / pipreqs / tox — 35%" />
+  <img src="https://img.shields.io/badge/AI_Training_%2F_Fine--tuning-7%25-e2ff00?style=flat-square&labelColor=121316" alt="AI Training / Fine-tuning — 7%" />
+  <img src="https://img.shields.io/badge/Arduino-45%25-e2ff00?style=flat-square&logo=arduino&logoColor=e2ff00&labelColor=121316" alt="Arduino — 45%" />
+</p>
+
+---
+
+## [ SECTION_03 // KEY_PROJECTS ]
+
+### [MultiEnvEmployer](https://github.com/REYIL/MultiEnvEmployer)
+
+<img src="https://img.shields.io/badge/Python-121316?style=flat-square&logo=python&logoColor=e2ff00&labelColor=121316" alt="Python" /> <img src="https://img.shields.io/badge/Async-121316?style=flat-square" alt="Async" /> <img src="https://img.shields.io/badge/VirtualEnv-121316?style=flat-square" alt="VirtualEnv" /> <img src="https://img.shields.io/badge/PyPI-121316?style=flat-square&logo=pypi&logoColor=e2ff00&labelColor=121316" alt="PyPI" />
+
+> Запуск кода из разных виртуальных окружений как обычных функций. Асинхронность и перехват вывода.
+
+### [VoiceTrigger](https://github.com/REYIL/VoiceTrigger)
+
+<img src="https://img.shields.io/badge/Python-121316?style=flat-square&logo=python&logoColor=e2ff00&labelColor=121316" alt="Python" /> <img src="https://img.shields.io/badge/Vosk-121316?style=flat-square" alt="Vosk" /> <img src="https://img.shields.io/badge/PyPI-121316?style=flat-square&logo=pypi&logoColor=e2ff00&labelColor=121316" alt="PyPI" />
+
+> Библиотека распознавания речи в реальном времени на основе Vosk. Декораторный API как в aiogram.
+
+### [ServerManagementTelegramBot](https://github.com/REYIL/ServerManagementTelegramBot)
+
+<img src="https://img.shields.io/badge/Python-121316?style=flat-square&logo=python&logoColor=e2ff00&labelColor=121316" alt="Python" /> <img src="https://img.shields.io/badge/Telegram-121316?style=flat-square&logo=telegram&logoColor=e2ff00&labelColor=121316" alt="Telegram" /> <img src="https://img.shields.io/badge/Linux-121316?style=flat-square&logo=linux&logoColor=e2ff00&labelColor=121316" alt="Linux" />
+
+> Telegram-бот для управления Linux-сервером (команды, мониторинг, файлы).
+
+---
+
+## [ SECTION_04 // CONTACTS ]
+
+<a href="https://t.me/REYIL_DEV"><img src="https://img.shields.io/badge/Telegram-%40REYIL__DEV-e2ff00?style=for-the-badge&logo=telegram&logoColor=e2ff00&labelColor=121316" alt="Telegram: @REYIL_DEV" /></a>
+<a href="https://pypi.org/user/REYIL/"><img src="https://img.shields.io/badge/PyPI-REYIL-e2ff00?style=for-the-badge&logo=pypi&logoColor=e2ff00&labelColor=121316" alt="PyPI: REYIL" /></a>
